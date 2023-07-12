@@ -76,7 +76,7 @@ This JEDEC security HAL implementation has been integrated and tested with follo
 For Arm Mbed OS, JEDEC security HAL is integrated in the COMPONENT_SECUREF. The source code is available on [github](https://github.com/macronix/).
 
 ```
-git clone -b macronix_secureflash --recursive https://github.com/macronix/mbed-os
+git clone -b macronix_secureflash_TG424_3 --recursive https://github.com/macronix/mbed-os
 ```
 
 
@@ -86,7 +86,7 @@ git clone -b macronix_secureflash --recursive https://github.com/macronix/mbed-o
 For Arm Trusted Firmware-M, JEDEC security HAL is integrated in the ETSS partition which provides solution for supporting secure Flash in Arm Trusted Firmware-M framework. The source code is available on [github](https://github.com/macronix/).
 
 ```
-git clone -b macronix_secureflash --recursive https://github.com/macronix/tf-m-extras
+git clone -b macronix_secureflash_TG424_3 --recursive https://github.com/macronix/tf-m-extras
 ```
 
 
